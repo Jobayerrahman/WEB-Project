@@ -1,0 +1,294 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+#wrapper {
+    width: 100%;
+}
+
+#header {
+    background-color: #1E56A0;
+    padding: 10px;
+    width: 100%;
+}
+
+#header_text #header_text {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Archivo Black', sans-serif;
+    border-bottom: 1px solid;
+    border-bottom-color: #2E62A7;
+    font-size: 30px;
+}
+
+#header_text p {
+    color: #FFFFFF;
+    padding: 5px;
+}
+
+#content_wrapper {
+    margin-top: 20px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+#right_sidebar {
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+    margin-right: 100px;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width: 25%;
+}
+
+#my_account {
+    width: 55%;
+    border: 1px solid;
+    padding: 20px;
+    box-shadow: 5px 10px 18px #888888;
+    margin-right: 100px;
+    float: left;
+}
+
+#right_sidebar a {
+    text-decoration: none;
+    color: #1E56A0;
+    padding: 10px;
+}
+
+#right_sidebar a:hover {
+    text-decoration: underline;
+}
+
+#slide_show {
+    width: 800px;
+    float: left;
+    height: 380px;
+}
+
+.w3-container {
+    margin-top: 20px;
+}
+
+#main_body {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.h2_style {
+    background-color: #2E62A7;
+    color: white;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 80%;
+    margin-left: 40px;
+}
+
+
+.media {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 70%;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    min-height: 40px;
+    max-height: 100%;
+}
+
+.card2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 80%;
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    min-height: 40px;
+    max-height: 100%;
+}
+.card3{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 20%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    min-height: 40px;
+    max-height: 100%;
+}
+.card4{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 60%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    min-height: 40px;
+    max-height: 100%;
+}
+
+.card2-style{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.pagi{
+    font-size: 18px;
+    
+    padding: 5px;
+    color: white;
+    background: #1E56A0
+}
+.pagi:hover{
+    color:white;
+}
+
+.offer-img{
+    float: left;
+    width: 200px;
+    
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+   
+}
+
+.offers{
+    float: left;
+    max-width: 100%;
+    text-align: left;
+    margin-left: 50px;
+   
+}
+
+
+
+.btn {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 18px;
+    transition: 0.3s;
+    width: 100%;
+}
+
+.btn:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.button {
+  background-color: #E9EBEE;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 45px;
+  margin-top: 5px;
+  cursor: pointer;
+  width: 70%;
+  -webkit-transition-duration: 0.4s;
+  /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button2 {
+  background-color: #E9EBEE;
+  color: black;
+  border: 2px solid #008CBA;
+}
+.button3{
+  background-color: #E9EBEE;
+  color: black;
+  border: 2px solid #008CBA;
+  width: 150px;
+  height: 40px;
+}
+.button4{
+  background-color: white;
+  color: #008CBA;
+  border:none;
+  
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+  text-decoration: none;
+}
+.button3:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.card_img {
+    width: 100%;
+    height: 200px;
+}
+
+.footer_link {
+    color: #FFFFFF;
+}
+
+.checked {
+    color: orange;
+}
+
+.slider_img {
+    width: 100%;
+    height: 500px;
+}
+
+.right_img {
+    width: 80px;
+    height: 80px;
+    margin: 0 80px;
+}
+
+#right_sidebar p {
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.sub-button{
+    
+    background-color: #FF0000;
+    color: white;
+    font-size: 15px;
+    padding: 7px;
+}
+.sub-button:hover{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    float: left;
+    margin-top: 20px;
+    padding: 10px;
+    background-color:#3F51B5;
+    color: white;
+    width: 100%;
+  }
+  .footer a{
+    color: white;
+    font: 40px;
+    padding: 5px;
+  }
+
+  .res_style{
+      float: left;
+      margin-left: 20px;
+  }

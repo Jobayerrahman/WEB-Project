@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #EBEBEB;
+}
+.main-body{
+    height: 500px;
+    width: 550px;
+    border: solid 1 px;
+    
+    margin-left: 25%;
+    margin-top: 5%;
+    background-color: white;
+    border-radius: 10px;
+}
+.main-body1{
+    height: 850px;
+    width: 550px;
+    border: solid 1 px;
+    
+    margin-left: 25%;
+    margin-top: 5%;
+    background-color: white;
+    border-radius: 10px;
+}
+.main-body h1{
+    font-family: 'Questrial', sans-serif;
+    opacity: .7;
+    margin-left: 15%;
+}
+.main-body1 h1{
+    font-family: 'Questrial', sans-serif;
+    opacity: .7;
+    margin-left: 15%;
+}
+
+.input-box{
+    width: 70%;
+    height: 40px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+}
+.input-box1{
+    width: 70%;
+    height: 30px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+}
+.input-box2{
+    width: 35%;
+    height: 30px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+}
+.radio-style{
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+    margin-top: 5%;
+}  
+.input-box label{
+    font-family: 'Questrial', sans-serif;
+    opacity: .7;
+}
+input{
+    border: 1px solid #ccc;
+}
+input:hover{
+    border: 3px solid #1E56A0;
+}
+.box{
+    margin-left: 15%;
+    margin-top: 5%;
+
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+    opacity: .7;
+
+}
+
+
+.check{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.check-box{
+    font-family: 'Questrial', sans-serif;
+    opacity: .5;
+    float: left;
+}
+.remember{
+    float: right;
+    margin-right: 30%;
+}
+.remember-me{
+    font-family: 'Questrial', sans-serif;
+    opacity: .5;
+}
+.remember a:hover{
+    text-decoration: none;
+    color: #70BB6B;
+}
+.login{
+    margin-left: 15%;
+    margin-top: 15%;
+    float: left;
+    overflow: hidden;
+}
+.login p{
+    margin-top: 10%;
+    font-family: 'Questrial', sans-serif;
+}
+.sign-up{
+    opacity: .5;
+}
+.sign-up:hover{
+    text-decoration: none;
+    color: #70BB6B;
+}
+.button{
+    background-color: black;
+    color: white;
+    width:150px;
+    opacity: .8;
+    height: 50px;
+}
+.button:hover{
+    background-color: #CCCCCC;
+    color: black;
+}
+
+.acc-select{
+    margin-top: 20%;
+}
+.acc-select a{
+    text-decoration: none;
+}
+
+.select-button{
+    background-color: black;
+    color: white;
+    width:400px;
+    opacity: .8;
+    height: 50px;
+    margin-left: 15%;
+    margin-top: 30px;
+}
+.select-button:hover{
+    background-color: #CCCCCC;
+    color: black;
+}
+  
+
+  

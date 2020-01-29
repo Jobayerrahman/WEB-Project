@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+#wrapper {
+    width: 100%;
+}
+
+#header {
+    background-color: #1E56A0;
+    padding: 10px;
+    width: 100%;
+}
+
+#header_text #header_text {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Archivo Black', sans-serif;
+    border-bottom: 1px solid;
+    border-bottom-color: #2E62A7;
+    font-size: 30px;
+}
+
+#header_text p {
+    color: #FFFFFF;
+    padding: 5px;
+}
+
+#header_link {
+    margin-left: 1200px;
+}
+
+#header_link #login {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 5px;
+    border-right: 2px solid;
+}
+
+#header_link #register {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#content_wrapper {
+    margin-top: 20px;
+    width: 100%;
+    overflow: hidden;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+#right_sidebar {
+    width: 300px;
+    border-right: 1px solid;
+    border-right-color: #1E56A0;
+    padding: 40px;
+    margin-right: 100px;
+    float: left;
+}
+
+#right_sidebar a {
+    text-decoration: none;
+    color: #1E56A0;
+}
+
+#right_sidebar a:hover {
+    text-decoration: underline;
+}
+
+#slide_show {
+    width: 800px;
+    float: left;
+}
+
+#main_body {
+    width: 100%;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+
+.btn:hover {
+    background-color: #1E56A0;
+    color: white;
+}
+
+.card_img {
+    width: 100%;
+    max-height: 300px;
+}
+
+.footer_link {
+    color: #FFFFFF;
+}
+
+.checked {
+    color: orange;
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.h2_style{
+    background-color: #2E62A7;
+    color: white;
+    padding: 10px;
+}
+.media{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
